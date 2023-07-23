@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 09968324c896d3f469807780cb97edea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_0"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 865
+        width: 112
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c61e7873194848a31719c351b46ec
+      internalID: -737400545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_3"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 868
+        width: 635
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbba50785065944daa6e0ead5d281f8
+      internalID: -121305018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_6"
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 863
+        width: 112
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce65bbef20b876e4fb8f0f6d7c324858
+      internalID: -1138318142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_10"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 649
+        width: 141
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ab443f70e4424189c096d34107baa
+      internalID: -434152049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_12"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 646
+        width: 635
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39f69d4008d0d4aafc8979d9b6ca63
+      internalID: -1461856867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_15"
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 645
+        width: 141
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a9f2aa465ab1646bf691269edfaa4c
+      internalID: 338828160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_17"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 434
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d0b876d70ef1242a3f3a80c3b2e7f5
+      internalID: -1773139832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_20"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 438
+        width: 635
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2836fe5562072347987ef4c82ce5f3b
+      internalID: -702017657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_24"
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 434
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41557e513d85ce42b4c23916a5c9876
+      internalID: -1490949148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_27"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 231
+        width: 149
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607e6e6c55ea2941aee65b3e1267614
+      internalID: 2047412695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_30"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 230
+        width: 610
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de12b994b2d0e42a1fc4215a7f0d3f
+      internalID: 2099420732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pencil to fill in the_6094609_33"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 227
+        width: 149
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bcb177213014d40827e4ebbd52004f
+      internalID: -140405216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_11": -1564796383
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_12": -1461856867
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_7": -1077586919
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_22": 637853517
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_5": -1136091338
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_18": 1002121394
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_23": -57133341
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_14": -696091941
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_27": 2047412695
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_25": 147470193
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_17": -1773139832
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_3": -121305018
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_13": 1501034540
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_24": -1490949148
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_1": -2114556235
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_10": -434152049
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_4": -24401492
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_16": 1050279487
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_19": 953440503
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_28": 1025266893
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_21": 1040802659
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_20": -702017657
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_9": 81417262
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_2": -791026094
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_8": 622084390
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_26": 1906215478
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_0": -737400545
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_6": -1138318142
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_29": 1308408288
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_31": -1069881269
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_15": 338828160
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_30": 2099420732
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_33": -140405216
+      "\u2014Pngtree\u2014pencil to fill in the_6094609_32": 700189394
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
